@@ -1,7 +1,7 @@
 ---
 title: '📸'
 subtitle: 
-date: 2022-02-15 00:00:00
+date: 2023-02-15 00:00:00
 description: 
 featured_image: '/images/photography/cover.jpg'
 ---
