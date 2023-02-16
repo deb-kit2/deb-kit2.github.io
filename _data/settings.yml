@@ -1,6 +1,6 @@
 basic_settings:
   site_title: deb-kit2
-  favicon_image: 
+  favicon_image: images/favicon.png
 
 header_settings:
   logo_image: 
@@ -72,6 +72,18 @@ color_settings:
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
+
+  # background_color: '#221c35'
+  # background_alt_color: '#1d0730'
+  # text_dark_color: '#ffffff'
+  # text_medium_color: '#cdcacf'
+  # text_light_color: '#17141a'
+  # accent_color: '#F2784B'
+  # border_color: '#dddddd'
+  # overlay_background_color: '#F2784B'
+  # overlay_text_color: '#ffffff'
+  # overlay_accent_color: '#2A2F36'
+  # error_color: '#D64541'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
