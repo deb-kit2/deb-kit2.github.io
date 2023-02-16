@@ -34,7 +34,7 @@ I love photography and this page shows some of my favourite people and moments.
 	<img src="/images/photography/7.jpg">
 	<img src="/images/photography/9.jpg">
 	<img src="/images/photography/10.jpg">
-	<img src="/images/photography/b.jpg">
+	<img src="/images/photography/b.JPG">
 </div>
 <div class="gallery" data-columns="1">
 	<img src="/images/photography/single.jpg">
