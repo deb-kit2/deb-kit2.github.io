@@ -1,1 +1,0 @@
-# Amazon Multimodal CoT

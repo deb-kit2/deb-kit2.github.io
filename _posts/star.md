@@ -1,1 +1,0 @@
-# STaR : Self Taught Reasoner
