@@ -32,7 +32,7 @@ transform and Thresholding.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>**Bachelor of Technology in Electronics and Communication Engineering**</i> ~ July 2018 - May 2022
 
 #### Some cool projects
-- <b>Modeling of Chaotic Epidemic Models on FPGAs - Bachelor's Thesis</b><br>
+- <b>Modeling Chaotic Epidemic Models on FPGAs - Bachelor's Thesis</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This was a general procedure to implement Chaotic Models.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I used Euler’s Forward method to discretize continuous-time differential equations,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then generated RTL Schematics and compared the resources used.<br>
