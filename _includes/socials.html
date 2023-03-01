@@ -1,4 +1,11 @@
 <ul class="socials">
+	
+	<li class="socials__item">
+		<a href="mailto:nick.kittu.deb@gmail.com" target="_blank" class="socials__item__link" title="Mail">
+			<i class="fab fa-telegram-plane" aria-hidden="true"></i>
+		</a>
+	</li>
+
 	{% for url in site.data.settings.social_settings %}
 	{% if url[1] != '' %}
 	<li class="socials__item">
@@ -8,4 +15,5 @@
 	</li>
 	{% endif %}
 	{% endfor %}
+
 </ul>

@@ -33,6 +33,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
+  github_url: 'https://github.com/deb-kit2'
+  linkedin_url: 'https://in.linkedin.com/in/kit2'
   facebook_url: 'https://www.facebook.com/dead.man.zone/'
   twitter_url: ''
   instagram_url: 'https://www.instagram.com/kit.2.cat/'
@@ -50,7 +52,6 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: 'https://github.com/deb-kit2'
   reddit_url: ''
   flickr_url: ''
   etsy_url: ''
@@ -58,13 +59,12 @@ social_settings:
   soundcloud_url: ''
   spotify_url: https://open.spotify.com/user/i90y331q2qyw9jp5f9mdi87fh'
   bandcamp_url: ''
-  linkedin_url: 'https://in.linkedin.com/in/kit2'
 
 color_settings:
-  background_color: '#ffffff'
+  # background_color: '#ffffff'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
+  # text_dark_color: '#2A2F36'
+  # text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
   accent_color: '#F2784B'
   border_color: '#dddddd'
@@ -73,10 +73,10 @@ color_settings:
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
 
-  # background_color: '#221c35'
+  background_color: '#181A1B'
   # background_alt_color: '#1d0730'
-  # text_dark_color: '#ffffff'
-  # text_medium_color: '#cdcacf'
+  text_dark_color: '#cccccc'
+  text_medium_color: '#ABB7B7'
   # text_light_color: '#17141a'
   # accent_color: '#F2784B'
   # border_color: '#dddddd'

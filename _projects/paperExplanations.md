@@ -3,7 +3,7 @@ title: '📑'
 subtitle: 
 date: 2023-02-16 00:00:00
 description: 
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/papers/cover.jpeg'
 ---
 
 ## Paper Summaries
