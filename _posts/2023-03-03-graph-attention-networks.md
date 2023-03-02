@@ -1,6 +1,5 @@
 ---
 title: 'Graph Attention Networks'
-permalink: /blog/graphs
 description: An inplementation.
 featured_image: '/images/demo/demo-square.jpg'
 ---
