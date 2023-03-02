@@ -1,5 +1,6 @@
 ---
 title: 'Multimodal CoT Reasoning in Language Models'
+permalink: /blog/amazon-mm-cot
 description: An approach.
 featured_image: '/images/demo/demo-square.jpg'
 ---
