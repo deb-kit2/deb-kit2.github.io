@@ -126,16 +126,16 @@
 		display: block;
 		padding: 0;
 		line-height: 1.5;
-		font-size: $p-small*0.85;
+		font-size: $p-small*0.95;
 		line-height: $p-lineheight;
 		overflow: auto;
 
 		@include mq(tabletp) {
-			font-size: $p-medium*0.85;
+			font-size: $p-medium*0.95;
 		}
 
 		@include mq(laptop) {
-			font-size: $p-large*0.85;
+			font-size: $p-large*0.95;
 		}
 
 		.highlight {

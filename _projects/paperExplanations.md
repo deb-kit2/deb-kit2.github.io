@@ -13,5 +13,6 @@ I have tried to cover the details of papers I've read and found interesting ~ mo
 
 This is a work-in-progress page. 😅
 
+#### [Graph Attention Networks](/blog/graphs)
 #### [Multimodal Chain-of-Thought Reasoning in Language Models](/blog/amazon-mm-cot)
 #### [STaR : Self Taught Reasoner](/blog/star)
