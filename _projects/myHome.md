@@ -28,5 +28,5 @@ Met everyone after so long. Also got Spotify premium for free. Thanks Shashwat!
 #### August 6, 2022 ~ Wonderla!
 
 ### June 26, 2022 ~ I moved in.
-At a nice, cozy place in Bangalore. That apartment owner guy also charged money for the remaining four months of June. Heh!
+At a nice, cozy place in Bangalore. That apartment owner guy also charged money for the remaining four days of June. Heh!
 Anyways, I've made it my own. :)
