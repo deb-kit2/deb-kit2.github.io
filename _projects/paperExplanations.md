@@ -15,5 +15,4 @@ This is a work-in-progress page. 😅
 
 #### [Graph Attention Networks](/blog/graphs)
 Next up : 
-#### [Multimodal Chain-of-Thought Reasoning in Language Models](/blog/amazon-mm-cot)
-#### [STaR : Self Taught Reasoner](/blog/star)
+Stay tuned!
