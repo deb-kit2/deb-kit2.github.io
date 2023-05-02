@@ -6,7 +6,7 @@ description:
 featured_image: '/images/papers/cover.jpeg'
 ---
 
-## Paper Summaries
+## Paper Summaries and Implementations
 
 This page is is the only reason I re-made this website again.
 I have tried to cover the details of papers I've read and found interesting ~ mostly aligned with NLP and Multimodal paradigm.
@@ -14,5 +14,5 @@ I have tried to cover the details of papers I've read and found interesting ~ mo
 This is a work-in-progress page. 😅
 
 #### [Graph Attention Networks](/blog/graphs)
-Next up : 
-Stay tuned!
+<br>
+Stay tuned for more!
