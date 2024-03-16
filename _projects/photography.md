@@ -16,7 +16,7 @@ I love photography and this page shows some of my favourite people and moments.
 
 ---
 
-<div class = "gallery" data-columns = "2">
+<div class = "gallery" data-columns = "3">
 	<img src="/images/photography/DSC00238.jpg">
 	<img src="/images/photography/2.jpg">
 	<img src="/images/photography/DSC00470.jpg">
