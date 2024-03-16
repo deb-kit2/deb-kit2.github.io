@@ -15,7 +15,7 @@ And I like a lot of things.
 #### Work Experience
 - <b>Samsung Research Institute, Bangalore</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>**Research and Development Engineer**</i> ~ June 2022 - Present<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I work in the Natural Language Understanding team. Mostly doing research and maintaining a few key modules in the Bixby pipeline.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How are we doing? Can't say much, but check [this](https://www.youtube.com/watch?v=Q2MGqmuEdtU) out.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I work in the Natural Language Understanding team. Helping models reason and maintaining a few key modules in the Bixby pipeline.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How are we doing? Can't say much, but check [this](https://www.youtube.com/watch?v=Q2MGqmuEdtU) out.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>**Student Trainee**</i> ~ May - July 2021 [📜](https://drive.google.com/file/d/14E4fWz0ZZLIqTw-hjEKaOEyDz61U79IY/view?usp=sharing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Worked on the interpretability of Language Models for Intent Classification and Slot Tagging tasks.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used [Language Interpretability Tool](https://pair-code.github.io/lit/) (LIT) and [Local Interpretable Model-agnostic Explanations](https://arxiv.org/abs/1602.04938) (LIME).<br><br>
@@ -30,6 +30,14 @@ transform and Thresholding.
 #### Education
 - <b>Indian Institute of Technology (ISM), Dhanbad</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>**Bachelor of Technology in Electronics and Communication Engineering**</i> ~ July 2018 - May 2022
+
+#### Publications
+- <b>KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning</b> [📄](https://arxiv.org/abs/2401.12863) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We introduce knowledge graphs as a new modality, keeping the graph structure intact.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With 2 graph convolutional layers as the `KGEncoder`, our method gains a deeper contextual udnerstanding of text,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;therefore reducing hallucinations and enhancing the quality of answers.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Association for the Advancement of Artificial Intelligence (AAAI), 2024*
 
 #### Some cool projects
 - <b>Modeling Chaotic Epidemic Models on FPGAs - Bachelor's Thesis</b><br>
