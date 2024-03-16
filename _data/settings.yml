@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Paper Explanations'
+    - title: 'Papers & Blogs'
       url: '/project/paperexplanations'
     - title: 'About'
       url: '/about'
@@ -35,7 +35,7 @@ contact_settings:
 social_settings:
   github_url: 'https://github.com/deb-kit2'
   linkedin_url: 'https://in.linkedin.com/in/kit2'
-  facebook_url: 'https://www.facebook.com/dead.man.zone/'
+  facebook_url: ''
   twitter_url: ''
   instagram_url: 'https://www.instagram.com/kit.2.cat/'
   snapchat_url: ''
@@ -57,7 +57,7 @@ social_settings:
   etsy_url: ''
   kickstarter_url: ''
   soundcloud_url: ''
-  spotify_url: https://open.spotify.com/user/i90y331q2qyw9jp5f9mdi87fh'
+  spotify_url: ''
   bandcamp_url: ''
 
 color_settings:
