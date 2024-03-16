@@ -22,14 +22,14 @@ AND<br>
 <b>I got my paper accepted at AAAI!</b>
 </p>
 
-<img src = "/images/myhome/piku.jpeg" class = "center" style = "width : 25%;">
+<img src = "/images/myhome/piku.jpeg" class = "center" style = "width : 50%;">
 
 #### August 2023
 I had been working a lot all this time. Also made my first ever paper submission, to AAAI.
 
 #### February 26, 2023 ~ made this paper bee
 <div class="gallery"data-columns="1">
-    <img src = "/images/myhome/3.jpeg" style = "width : 25%; height = auto;">
+    <img src = "/images/myhome/3.jpeg" style = "width : 50%; height = auto;">
 </div>
 
 ### Birthdays! 🥳

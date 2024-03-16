@@ -1,6 +1,6 @@
 basic_settings:
   site_title: deb-kit2
-  favicon_image: images/favicon.png
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: 
