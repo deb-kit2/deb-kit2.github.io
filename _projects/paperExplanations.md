@@ -13,7 +13,7 @@ I have tried to cover the details of papers I've authored, or read and found int
 
 This is a work-in-progress page. 😅
 
-#### 📄 [KAM-CoT: Knowledge Augmetned Multimodal Chain-of-Thoughts Reasoning]()
+#### 📄 [KAM-CoT: Knowledge Augmetned Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2401.12863)
 
 #### 🗞️ [Graph Attention Networks](/blog/graphs)
 <br>
