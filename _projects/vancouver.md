@@ -14,7 +14,7 @@ This was my first ever international trip. All because of AAAI. Dream come true.
 
 ---
 
-<div class = "gallery" data-columns = "3">
+<div class = "gallery" data-columns = "2">
 	<img src="/images/vancouver/1.jpg">
 	<img src="/images/vancouver/2.jpg">
 	<img src="/images/vancouver/3.jpg">
