@@ -13,6 +13,8 @@ I have tried to cover the details of papers I've authored, or read and found int
 
 This is a work-in-progress page. 😅
 
+#### 📄 [Seg-HGNN: Unsupervised and Light-Weight Image Segmentation using Hyperbolic Graph Neural Networks](https://arxiv.org/abs/2409.06589)
+
 #### 📄 [KAM-CoT: Knowledge Augmetned Multimodal Chain-of-Thoughts Reasoning](https://arxiv.org/abs/2401.12863)
 
 #### 🗞️ [Graph Attention Networks](/blog/graphs)

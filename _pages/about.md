@@ -33,11 +33,18 @@ transform and Thresholding.
 
 #### Publications
 - <b>KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning</b> [📄](https://arxiv.org/abs/2401.12863) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We introduce knowledge graphs as a new modality, keeping the graph structure intact.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With 2 graph convolutional layers as the `KGEncoder`, our method gains a deeper contextual udnerstanding of text,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- We introduce knowledge graphs as a new modality, keeping the graph structure intact.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- With 2 graph convolutional layers as the `KGEncoder`, our method gains a deeper contextual udnerstanding of text,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;therefore reducing hallucinations and enhancing the quality of answers.<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Association for the Advancement of Artificial Intelligence (AAAI), 2024*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Association for the Advancement of Artificial Intelligence (AAAI), 2024*** 
+
+- <b>Seg-HGNN: Unsupervised and Light-Weight Image Segmentation using Hyperbolic Graph Neural Networks</b> [📄](https://arxiv.org/abs/2409.06589) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- We exploit the properties of Hyperbolic Spaces to do segmentation tasks in very low dimensions.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\- With the extracted image features, we build a graph in the Lorentz space,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and perform unsupervised clustering to get semantically similar regions.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The British Machine Vision Conference (BMVC), 2024*
 
 #### Some cool projects
 - <b>Modeling Chaotic Epidemic Models on FPGAs - Bachelor's Thesis</b><br>
